@@ -1,0 +1,36 @@
+.refresh {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 5px;
+  color: white;
+}
+
+#checkboxSuccess, #checkboxReuse, #checkboxReddit  {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  border: 0.5px solid black;
+  border-radius: 5px;
+  height: 18px;
+  width: 18px;
+  margin-top: 4px;
+  margin-right: -25px;
+}
+
+.inline {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  color: white;
+}
+
+.tableFilter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border: 1px solid black;  
+  /* margin-left: 100px;
+  margin-right: 100px;   */
+  border-radius: 5px;
+}
