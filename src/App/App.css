@@ -1,5 +1,7 @@
 body {
   background: url(https://assets.weforum.org/editor/-m6-dXld1Fr8C60k-14amtGpkVWG9ex2lpvKC_P8XvA.jpg);
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 h1 {
