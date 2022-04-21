@@ -1,8 +1,8 @@
 
 
-.table {
+.tablehead tr{
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   border: 1px solid black;
   /* margin-left: 100px;
   margin-right: 100px; */
